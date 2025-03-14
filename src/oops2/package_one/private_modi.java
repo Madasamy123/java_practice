@@ -10,11 +10,15 @@ class Districs{
 
 
 
+
+
 public class private_modi {
 
     public static void main(String [] args){
         Districs total=new Districs();
         total.print();
+
+
 
 
     }

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb1fa8b-3763-499b-8de8-3541f1f6b9e0" name="Changes" comment="add the java program">
+      <change beforePath="$PROJECT_DIR$/src/oops2/package_one/private_modi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/package_one/private_modi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Madasamy123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Madasamy123/java_practice.git",
+    "accountId": "bc5f176d-524b-4483-b662-399986f117e9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2st8jeHMHQUCCXQPRlzSwuJl76r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstrct1.executor": "Run",
+    "Application.Array2D.executor": "Run",
+    "Application.ArraySum.executor": "Run",
+    "Application.AssessmentDemo.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.Boxdemo.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.LinkedListSet.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinMax.executor": "Run",
+    "Application.Objclass.executor": "Run",
+    "Application.Panagram.executor": "Run",
+    "Application.People.executor": "Run",
+    "Application.People1.executor": "Run",
+    "Application.Poly_OverLoaing.executor": "Run",
+    "Application.Prac1.executor": "Run",
+    "Application.PracFinal.executor": "Run",
+    "Application.PracInterface.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Practice1.executor": "Run",
+    "Application.SetCountries.executor": "Run",
+    "Application.Showroom.executor": "Run",
+    "Application.Static_methods.executor": "Run",
+    "Application.Static_variables.executor": "Run",
+    "Application.StrDetails.executor": "Run",
+    "Application.Students.executor": "Run",
+    "Application.ToStringDemo.executor": "Run",
+    "Application.abstract_prac.executor": "Run",
+    "Application.abstract_prac1.executor": "Run",
+    "Application.abstrct.executor": "Run",
+    "Application.classDemo.executor": "Run",
+    "Application.encapsulation.executor": "Run",
+    "Application.encapsulation1.executor": "Run",
+    "Application.example.executor": "Run",
+    "Application.exercise.executor": "Run",
+    "Application.inheritance.executor": "Run",
+    "Application.inheritance_main.executor": "Run",
+    "Application.inheritance_one.executor": "Run",
+    "Application.interface1.executor": "Run",
+    "Application.methodOverriding.executor": "Run",
+    "Application.package_one.Students.executor": "Run",
+    "Application.poly_overriding.executor": "Run",
+    "Application.prac.executor": "Run",
+    "Application.prac1.executor": "Run",
+    "Application.prac2.executor": "Run",
+    "Application.prac3.executor": "Run",
+    "Application.prac4.executor": "Run",
+    "Application.practInterface.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.practice1.executor": "Run",
+    "Application.practice2.executor": "Run",
+    "Application.practice3.executor": "Run",
+    "Application.public1_modi.executor": "Run",
+    "Application.setCreateExample.executor": "Run",
+    "Application.setOnePractice.executor": "Run",
+    "Application.static_block.executor": "Run",
+    "Application.staticclass.executor": "Run",
+    "Application.task3.executor": "Run",
+    "Application.task4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/MADASAMY-FSSA/java_practice",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MadasamyAsokan\IdeaProjects\untitled\src\oops2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="classDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssessmentQues.classDemo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssessmentQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prac3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssessmentQues.prac3" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssessmentQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prac4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssessmentQues.prac4" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssessmentQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssessmentQues.task3" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssessmentQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssessmentQues.task4" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssessmentQues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.prac4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.prac3" />
+        <item itemvalue="Application.classDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb1fa8b-3763-499b-8de8-3541f1f6b9e0" name="Changes" comment="" />
+      <created>1739263651355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739263651355</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add the java program">
+      <option name="closed" value="true" />
+      <created>1741950380039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741950380039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the java program" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the java program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oops_prac/Static_variables.java</url>
+          <line>15</line>
+          <properties class="oops_prac.Static_variables" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssessmentQues/prac1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
